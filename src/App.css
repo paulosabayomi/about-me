@@ -1,38 +1,100 @@
-.App {
-  text-align: center;
+.hero {
+  height: 75vh;
+  /* From https://css.glass */
+  background: rgba(78, 77, 77, 0.134);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.intro-text {
+  font-size: 300%;
+  color: var(--header-color);
+  font-weight: 500;
+  font-family: 'Rubik Distressed', system-ui;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.social-media-icons img {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+  margin-right: 15px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.work-title, .about-title {
+  color: var(--header-color);
+  font-size: 160%;
+}
+
+.app-card {
+  background: rgba(78, 77, 77, 0.134) !important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+  border-radius: 16px !important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+  backdrop-filter: blur(5px) !important;
+  -webkit-backdrop-filter: blur(5px) !important;
+  color: white !important;
+}
+
+.app-card img {
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  -webkit-object-fit: cover;
+  -webkit-object-position: center;
+}
+
+.profile-pic {
+  backdrop-filter: blur(5px); 
+  background-color: rgb(22, 22, 22); 
+  border-radius: 26px; 
+  box-shadow: 35px 35px 68px 0px rgba(145, 192, 255, 0.5), 
+    inset -8px -8px 16px 0px rgba(145, 192, 255, 0.6), 
+    inset 0px 11px 28px 0px rgb(32, 32, 32);
+  width: 100%;
+  height: auto;
+  padding: 10px;
+}
+
+.profile-pic img {
+  width: 100%;
+  object-fit: contain;
+  border-radius: 26px; 
+}
+
+.about-description {
+  color: white;
+  font-size: 110%;
   display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+
+.tech-stack-container {
+  background: rgba(120, 118, 118, 0.134);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+}
+
+.tech-stack-container img {
+  object-fit: contain;
+  width: 60px;
+  height: 100%;
+}
+
+.tech-stack-container .tech-stack-name {
+  padding: 0px 15px;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.footer-container {
+  background: rgba(78, 77, 77, 0.134);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
 }
