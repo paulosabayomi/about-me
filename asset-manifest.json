@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/about-me/static/css/main.76146c02.css",
-    "main.js": "/about-me/static/js/main.a0451c76.js",
+    "main.js": "/about-me/static/js/main.f1b8b59d.js",
     "static/js/787.55c86885.chunk.js": "/about-me/static/js/787.55c86885.chunk.js",
     "static/media/fa-solid-900.ttf": "/about-me/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/custup logo.png": "/about-me/static/media/custup logo.8f2b121c3f1d9673a184.png",
@@ -44,16 +44,16 @@
     "static/media/express-logo.svg": "/about-me/static/media/express-logo.9ec7bab5cf2c9cc7f097c38802a48788.svg",
     "static/media/git-logo.svg": "/about-me/static/media/git-logo.8ee81345da1c18b6cdb4bbe93b464810.svg",
     "static/media/linkedin-logo.svg": "/about-me/static/media/linkedin-logo.194bc6e73bf2c7744d1b52336b25b665.svg",
+    "index.html": "/about-me/index.html",
     "static/media/socket-logo.svg": "/about-me/static/media/socket-logo.aa6313f65f334f142b42a0afcffc30b5.svg",
     "static/media/apache-cordova-logo.svg": "/about-me/static/media/apache-cordova-logo.581bb2fad948bb97fe6bc8ae7d027a3f.svg",
-    "index.html": "/about-me/index.html",
     "static/media/youtube-logo.svg": "/about-me/static/media/youtube-logo.48c51dc0eb1704ba7cb9a9b045de67b9.svg",
     "main.76146c02.css.map": "/about-me/static/css/main.76146c02.css.map",
-    "main.a0451c76.js.map": "/about-me/static/js/main.a0451c76.js.map",
+    "main.f1b8b59d.js.map": "/about-me/static/js/main.f1b8b59d.js.map",
     "787.55c86885.chunk.js.map": "/about-me/static/js/787.55c86885.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76146c02.css",
-    "static/js/main.a0451c76.js"
+    "static/js/main.f1b8b59d.js"
   ]
 }
