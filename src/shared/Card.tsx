@@ -12,7 +12,7 @@ import {
 const CardComponent = React.memo(({title, desc, image, href}: {title: string; desc: string; image: string; href?: string}) => {
   return (
     <MDBCol sm={12} className='mb-3'>
-      <a className='card app-card'>
+      <a href={href} className='card app-card'>
         <MDBRow className='g-0'>
           <MDBCol md='4 d-flex justify-content-center'>
             <MDBCardImage src={image} alt='...' fluid />
