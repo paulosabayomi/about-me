@@ -21,4 +21,4 @@ export default createBrowserRouter([
       path: "project/:projectName",
       element: <ProjectWrapper />
     }
-]);
+], {basename: '/about-me'});
