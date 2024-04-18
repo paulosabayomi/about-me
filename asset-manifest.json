@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/about-me/static/css/main.76146c02.css",
-    "main.js": "/about-me/static/js/main.c90e624a.js",
+    "main.js": "/about-me/static/js/main.7d319f5f.js",
     "static/js/787.55c86885.chunk.js": "/about-me/static/js/787.55c86885.chunk.js",
     "static/media/fa-solid-900.ttf": "/about-me/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/custup logo.png": "/about-me/static/media/custup logo.8f2b121c3f1d9673a184.png",
@@ -56,11 +56,11 @@
     "static/media/pandas.svg": "/about-me/static/media/pandas.46154c8b9733221ac2192f9372d4910c.svg",
     "static/media/youtube-logo.svg": "/about-me/static/media/youtube-logo.48c51dc0eb1704ba7cb9a9b045de67b9.svg",
     "main.76146c02.css.map": "/about-me/static/css/main.76146c02.css.map",
-    "main.c90e624a.js.map": "/about-me/static/js/main.c90e624a.js.map",
+    "main.7d319f5f.js.map": "/about-me/static/js/main.7d319f5f.js.map",
     "787.55c86885.chunk.js.map": "/about-me/static/js/787.55c86885.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76146c02.css",
-    "static/js/main.c90e624a.js"
+    "static/js/main.7d319f5f.js"
   ]
 }
