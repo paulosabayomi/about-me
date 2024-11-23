@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/about-me/static/css/main.76146c02.css",
-    "main.js": "/about-me/static/js/main.7d319f5f.js",
+    "main.css": "/about-me/static/css/main.fa262171.css",
+    "main.js": "/about-me/static/js/main.9436fd81.js",
     "static/js/787.55c86885.chunk.js": "/about-me/static/js/787.55c86885.chunk.js",
     "static/media/fa-solid-900.ttf": "/about-me/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/custup logo.png": "/about-me/static/media/custup logo.8f2b121c3f1d9673a184.png",
@@ -11,6 +11,7 @@
     "static/media/DBS dashboard.png": "/about-me/static/media/DBS dashboard.7a9b682235f1d97c691e.png",
     "static/media/scikit_learn.png": "/about-me/static/media/scikit_learn.bfb987221ae5f83d782b.png",
     "static/media/fa-brands-400.woff2": "/about-me/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/TreeSpider.png": "/about-me/static/media/TreeSpider.c6fdbc563fc37441d63c.png",
     "static/media/magicpattern-confetti.png": "/about-me/static/media/magicpattern-confetti.aaf8d6997c0c5bdee7f7.png",
     "static/media/fa-regular-400.ttf": "/about-me/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
     "static/media/studio-lite-audio.png": "/about-me/static/media/studio-lite-audio.5bea32e85aa40f434b86.png",
@@ -18,7 +19,7 @@
     "static/media/YOLO.avif": "/about-me/static/media/YOLO.4c6fdaedc14c9598c8bc.avif",
     "static/media/supervisord.png": "/about-me/static/media/supervisord.035c1c24413867373e6a.png",
     "static/media/fa-regular-400.woff2": "/about-me/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
-    "static/media/profile-pic.jpg": "/about-me/static/media/profile-pic.5aaa2f25503ccf239c1f.jpg",
+    "static/media/threads-logo.jpg": "/about-me/static/media/threads-logo.63e8f972df23eadc053a.jpg",
     "static/media/quickshare.png": "/about-me/static/media/quickshare.ef66704b73bbd3846dd0.png",
     "static/media/baskeet.png": "/about-me/static/media/baskeet.0b922ca3927ab8c5f5c8.png",
     "static/media/studio-lite-video.png": "/about-me/static/media/studio-lite-video.3116acd5e88eb70970b1.png",
@@ -48,6 +49,7 @@
     "static/media/sql-logo.svg": "/about-me/static/media/sql-logo.9acf06aaba494fd848fa6a8be08cfe1a.svg",
     "static/media/tensorflow.svg": "/about-me/static/media/tensorflow.b675fae9e6dd5e9a9cb817ba5088dc4c.svg",
     "static/media/express-logo.svg": "/about-me/static/media/express-logo.9ec7bab5cf2c9cc7f097c38802a48788.svg",
+    "static/media/d3-js-logo.svg": "/about-me/static/media/d3-js-logo.aed383da32726207ac2617c7615032c7.svg",
     "static/media/git-logo.svg": "/about-me/static/media/git-logo.8ee81345da1c18b6cdb4bbe93b464810.svg",
     "static/media/linkedin-logo.svg": "/about-me/static/media/linkedin-logo.194bc6e73bf2c7744d1b52336b25b665.svg",
     "index.html": "/about-me/index.html",
@@ -55,12 +57,12 @@
     "static/media/apache-cordova-logo.svg": "/about-me/static/media/apache-cordova-logo.581bb2fad948bb97fe6bc8ae7d027a3f.svg",
     "static/media/pandas.svg": "/about-me/static/media/pandas.46154c8b9733221ac2192f9372d4910c.svg",
     "static/media/youtube-logo.svg": "/about-me/static/media/youtube-logo.48c51dc0eb1704ba7cb9a9b045de67b9.svg",
-    "main.76146c02.css.map": "/about-me/static/css/main.76146c02.css.map",
-    "main.7d319f5f.js.map": "/about-me/static/js/main.7d319f5f.js.map",
+    "main.fa262171.css.map": "/about-me/static/css/main.fa262171.css.map",
+    "main.9436fd81.js.map": "/about-me/static/js/main.9436fd81.js.map",
     "787.55c86885.chunk.js.map": "/about-me/static/js/787.55c86885.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76146c02.css",
-    "static/js/main.7d319f5f.js"
+    "static/css/main.fa262171.css",
+    "static/js/main.9436fd81.js"
   ]
 }
